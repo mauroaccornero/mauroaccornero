@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Mauro
+### A passionate web developer from Italy
 
-<!--
-**mauroaccornero/mauroaccornero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freelance web developer based in Italy, [connect with me on Linkedin](https://linkedin.com/in/mauroaccornero) or [send me an email](mailto:info@mauroaccornero.it)
 
-Here are some ideas to get you started:
+### Languages and Tools:
+- Javascript
+- Typescript
+- HTML
+- CSS
+- React
+- Next.js
+- Cypress
+- Jest/Vitest
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauroaccornero&show_icons=true&locale=en&layout=compact" alt="mauroaccornero" /></p>
+
